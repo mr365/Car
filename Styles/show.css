@@ -1,0 +1,118 @@
+﻿body {
+    width:960px auto;
+    height:auto;
+    background-image:url(../Images/car9.jpg);
+    background-size:100% auto;
+    background-repeat:no-repeat;
+    font-size: .80em;
+    font-family: "Helvetica Neue", "Lucida Grande", "Segoe UI", Arial, Helvetica, Verdana, sans-serif;
+    margin: 0px;
+    padding: 0px;
+    color: #696969;
+    text-decoration-color:#FFB90F;
+
+}
+#form1
+{   
+    width:auto;
+    height:740px auto;
+    margin:200px;
+    margin-top:5px;
+  
+    font-size:24pt;
+    font-family: "Helvetica Neue", "Lucida Grande", "Segoe UI", Arial, Helvetica, Verdana, sans-serif;
+    padding:20px 10px 20px 10px;
+    vertical-align:auto;
+
+}
+
+    #form1#LinkButton1
+    {
+        font: bold 11px Arial;
+    text-decoration: none;
+    background-color: #EEEEEE;
+    color: #333333;
+    padding: 2px 6px 2px 6px;
+    border-top: 1px solid #CCCCCC;
+    border-right: 1px solid #333333;
+    border-bottom: 1px solid #333333;
+    border-left: 1px solid #CCCCCC;
+    }
+    #form3
+{   
+    width:280px;
+    height:auto;
+    margin:200px;
+    margin-top:50px;
+    
+    border-color: burlywood antiquewhite;
+    font-size:14pt;
+    font-family: "Helvetica Neue", "Lucida Grande", "Segoe UI", Arial, Helvetica, Verdana, sans-serif;
+    padding:20px 10px 20px 10px;
+    vertical-align:auto;
+
+}
+    #button1,#button2,#button3,#button4,#btSublg
+    {
+    font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #050505;
+	padding: 10px 20px;
+	background: -moz-linear-gradient(
+		top,
+		#ffffff 0%,
+		#ebebeb 50%,
+		#dbdbdb 50%,
+		#b5b5b5);
+	background: -webkit-gradient(
+		linear, left top, left bottom, 
+		from(#ffffff),
+		color-stop(0.50, #ebebeb),
+		color-stop(0.50, #dbdbdb),
+		to(#b5b5b5));
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	border: 1px solid #949494;
+	-moz-box-shadow:
+		0px 1px 3px rgba(000,000,000,0.5),
+		inset 0px 0px 2px rgba(255,255,255,1);
+	-webkit-box-shadow:
+		0px 1px 3px rgba(000,000,000,0.5),
+		inset 0px 0px 2px rgba(255,255,255,1);
+	box-shadow:
+		0px 1px 3px rgba(000,000,000,0.5),
+		inset 0px 0px 2px rgba(255,255,255,1);
+	text-shadow:
+		0px -1px 0px rgba(000,000,000,0.2),
+		0px 1px 0px rgba(255,255,255,1);
+
+    }
+
+    div#title
+{   
+    position:relative;
+    font-family: 'Shojumaru', cursive;
+    font-size:24pt;
+}
+
+    #footer
+{
+    position:absolute;
+    position:absolute;
+    bottom:0;
+    width:100%;
+    height:60px; 
+	background-color:#ffaa00;
+    color:white;
+    font-size:16pt;
+    font-family: tahoma, sans-serif;
+    text-align: center;
+    margin: 20px;
+    padding:0px ;
+    opacity:.8;
+}
+#RadioButtonList1
+{
+    font-size:14pt;
+}
